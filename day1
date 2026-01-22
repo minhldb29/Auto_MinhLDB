@@ -4,3 +4,5 @@ console.log("text"+a);
 b = 5
 c = 10
 console.log(b+c)
+exit;
+console.log("The sum of "+b+" and "+c+" is "+(b+c));
