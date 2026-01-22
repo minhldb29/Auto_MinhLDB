@@ -1,3 +1,6 @@
 console.log("Hello World");
 a = "hello world"
 console.log("text"+a);
+b = 5
+c = 10
+console.log(b+c)
